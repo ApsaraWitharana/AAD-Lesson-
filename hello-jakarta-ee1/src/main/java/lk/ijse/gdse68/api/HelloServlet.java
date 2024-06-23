@@ -31,3 +31,18 @@ public class HelloServlet extends HttpServlet {
 
     }
 }
+
+// setup project step
+
+//01.create project
+//02.add mevent dependency
+//03.create webapp derectry
+//04.create helloservlet and my servlet class
+//05.coll methods
+//06.add web.xml file path to classes
+//07.build-build artifact-add jakarta.war file create the traget file in this stop tomcat in this time
+//08.traget file -openin-explora-copy war file and paste to tomcat webapp file in copy file
+//09.run-editeconfig-add tomcat local
+//10.stop tomcat -run
+
+
