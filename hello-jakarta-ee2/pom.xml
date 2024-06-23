@@ -8,7 +8,7 @@
         <artifactId>AAD-Lesson</artifactId>
         <version>1.0.0</version>
     </parent>
-
+    <packaging>war</packaging>
     <groupId>lk.ijse.gdse68.api</groupId>
     <artifactId>hello-jakarta-ee2</artifactId>
 
