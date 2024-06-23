@@ -31,9 +31,8 @@ public class HelloServlet extends HttpServlet {
 }
 
 // setup project step2
-
 //01.create project
-//02.add mevent dependency
+//02.add meven dependency
 //03.create webapp derectry
 //04.create helloservlet and my servlet class
 //05.coll methods
